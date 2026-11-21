@@ -1,0 +1,830 @@
+[
+  {
+    "id": 1,
+    "date": "2026-11-21",
+    "time": "9:00-10:30 AM",
+    "subject": "Psychology",
+    "activity": "3.3 Consciousness",
+    "type": "Coverage",
+    "status": "Completed"
+  },
+  {
+    "id": 2,
+    "date": "2026-11-21",
+    "time": "11:00 AM-12:30 PM",
+    "subject": "Biology",
+    "activity": "Ch10 Asexual & Sexual Reproduction",
+    "type": "Coverage",
+    "status": "Completed"
+  },
+  {
+    "id": 3,
+    "date": "2026-11-21",
+    "time": "2:30-4:00 PM",
+    "subject": "Mathematics",
+    "activity": "Ch8 Integration diagnostic & substitution",
+    "type": "Practice/Review",
+    "status": "Skipped"
+  },
+  {
+    "id": 4,
+    "date": "2026-11-21",
+    "time": "4:30-5:30 PM",
+    "subject": "Biology",
+    "activity": "Ch10 Reproductive structures & gametogenesis",
+    "type": "Coverage",
+    "status": "Completed"
+  },
+  {
+    "id": 5,
+    "date": "2026-11-21",
+    "time": "9:30-10:30 PM",
+    "subject": "Chemistry",
+    "activity": "Ch8 Alkenes + trial questions",
+    "type": "Practice/Review",
+    "status": "Completed"
+  },
+  {
+    "id": 6,
+    "date": "2026-11-22",
+    "time": "5:15-6:00 PM",
+    "subject": "Chemistry",
+    "activity": "Trial reaction map & common mistakes",
+    "type": "Practice/Review",
+    "status": "Not Started"
+  },
+  {
+    "id": 7,
+    "date": "2026-11-22",
+    "time": "9:30-10:30 PM",
+    "subject": "Biology",
+    "activity": "Ch8 DNA replication & transcription",
+    "type": "Coverage",
+    "status": "Not Started"
+  },
+  {
+    "id": 8,
+    "date": "2026-11-22",
+    "time": "10:40-11:40 PM",
+    "subject": "Biology",
+    "activity": "Trial mixed questions",
+    "type": "Practice/Review",
+    "status": "Not Started"
+  },
+  {
+    "id": 9,
+    "date": "2026-11-23",
+    "time": "EXAM",
+    "subject": "Chemistry",
+    "activity": "CHEMISTRY TRIAL",
+    "type": "EXAM",
+    "status": "Event"
+  },
+  {
+    "id": 10,
+    "date": "2026-11-23",
+    "time": "5:15-6:00 PM",
+    "subject": "Biology",
+    "activity": "Ch8 Translation Part 1",
+    "type": "Coverage",
+    "status": "Not Started"
+  },
+  {
+    "id": 11,
+    "date": "2026-11-23",
+    "time": "9:30-10:30 PM",
+    "subject": "Biology",
+    "activity": "Trial targeted recall",
+    "type": "Practice/Review",
+    "status": "Not Started"
+  },
+  {
+    "id": 12,
+    "date": "2026-11-24",
+    "time": "EXAM",
+    "subject": "Biology",
+    "activity": "BIOLOGY TRIAL",
+    "type": "EXAM",
+    "status": "Event"
+  },
+  {
+    "id": 13,
+    "date": "2026-11-24",
+    "time": "5:15-6:00 PM",
+    "subject": "English",
+    "activity": "Email practice",
+    "type": "Practice/Review",
+    "status": "Not Started"
+  },
+  {
+    "id": 14,
+    "date": "2026-11-24",
+    "time": "9:30-10:30 PM",
+    "subject": "Biology",
+    "activity": "Ch9 Gene mutation",
+    "type": "Coverage",
+    "status": "Not Started"
+  },
+  {
+    "id": 15,
+    "date": "2026-11-24",
+    "time": "10:40-11:40 PM",
+    "subject": "Mathematics",
+    "activity": "Ch6 Functions diagnostic + composite & inverse drill",
+    "type": "Practice/Review",
+    "status": "Not Started"
+  },
+  {
+    "id": 16,
+    "date": "2026-11-25",
+    "time": "5:15-6:00 PM",
+    "subject": "Mathematics",
+    "activity": "Ch8 Integration diagnostic & substitution (replacement for 21 Nov)",
+    "type": "Practice/Review",
+    "status": "Not Started"
+  },
+  {
+    "id": 17,
+    "date": "2026-11-25",
+    "time": "9:30-10:30 PM",
+    "subject": "Chemistry",
+    "activity": "Ch8 Arenes & halogenalkanes",
+    "type": "Coverage",
+    "status": "Not Started"
+  },
+  {
+    "id": 18,
+    "date": "2026-11-25",
+    "time": "10:40-11:40 PM",
+    "subject": "Psychology",
+    "activity": "4.2 Personality Part 1",
+    "type": "Coverage",
+    "status": "Not Started"
+  },
+  {
+    "id": 19,
+    "date": "2026-11-26",
+    "time": "9:30-10:30 PM",
+    "subject": "Mathematics",
+    "activity": "Ch7 Differentiation drill",
+    "type": "Practice/Review",
+    "status": "Not Started"
+  },
+  {
+    "id": 20,
+    "date": "2026-11-27",
+    "time": "9:30-10:30 PM",
+    "subject": "Biology",
+    "activity": "Ch8 Gene regulation & gene technology",
+    "type": "Coverage",
+    "status": "Not Started"
+  },
+  {
+    "id": 21,
+    "date": "2026-11-28",
+    "time": "9:30-10:30 PM",
+    "subject": "Psychology",
+    "activity": "5.3 Disorders Part 1",
+    "type": "Coverage",
+    "status": "Not Started"
+  },
+  {
+    "id": 22,
+    "date": "2026-11-29",
+    "time": "9:00-10:30 AM",
+    "subject": "Chemistry",
+    "activity": "Ch7 Functional groups & isomerism",
+    "type": "Coverage",
+    "status": "Not Started"
+  },
+  {
+    "id": 23,
+    "date": "2026-11-29",
+    "time": "11:00 AM-12:30 PM",
+    "subject": "Mathematics",
+    "activity": "Ch8 Timed integration practice",
+    "type": "Practice/Review",
+    "status": "Not Started"
+  },
+  {
+    "id": 24,
+    "date": "2026-11-29",
+    "time": "2:30-4:00 PM",
+    "subject": "Biology",
+    "activity": "Ch6 Mendelian genetics & crosses",
+    "type": "Coverage",
+    "status": "Not Started"
+  },
+  {
+    "id": 25,
+    "date": "2026-11-29",
+    "time": "4:30-5:30 PM",
+    "subject": "Biology",
+    "activity": "Ch10 Spermatogenesis & oogenesis — active recall + structured practice",
+    "type": "Practice/Review",
+    "status": "Not Started"
+  },
+  {
+    "id": 26,
+    "date": "2026-11-29",
+    "time": "9:30-10:30 PM",
+    "subject": "Psychology",
+    "activity": "5.2 Stress & health Part 1",
+    "type": "Coverage",
+    "status": "Not Started"
+  },
+  {
+    "id": 27,
+    "date": "2026-11-30",
+    "time": "9:00-10:30 AM",
+    "subject": "Biology",
+    "activity": "Ch8 Translation completion & process questions",
+    "type": "Practice/Review",
+    "status": "Not Started"
+  },
+  {
+    "id": 28,
+    "date": "2026-11-30",
+    "time": "11:00 AM-12:30 PM",
+    "subject": "Biology",
+    "activity": "Ch9 Chromosomal mutation [MOVED EARLIER]",
+    "type": "Coverage",
+    "status": "Not Started"
+  },
+  {
+    "id": 29,
+    "date": "2026-11-30",
+    "time": "2:30-4:00 PM",
+    "subject": "Chemistry",
+    "activity": "Ch7 Bond cleavage & reactive species",
+    "type": "Coverage",
+    "status": "Not Started"
+  },
+  {
+    "id": 30,
+    "date": "2026-11-30",
+    "time": "4:30-5:30 PM",
+    "subject": "Psychology",
+    "activity": "4.2 Personality Part 2",
+    "type": "Coverage",
+    "status": "Not Started"
+  },
+  {
+    "id": 31,
+    "date": "2026-11-30",
+    "time": "9:30-10:30 PM",
+    "subject": "Psychology",
+    "activity": "5.3 Disorders Part 2",
+    "type": "Coverage",
+    "status": "Not Started"
+  },
+  {
+    "id": 32,
+    "date": "2026-12-01",
+    "time": "9:00-10:30 AM",
+    "subject": "Chemistry",
+    "activity": "Ch5 Equilibrium Kc/Kp/Qc",
+    "type": "Coverage",
+    "status": "Not Started"
+  },
+  {
+    "id": 33,
+    "date": "2026-12-01",
+    "time": "11:00 AM-12:30 PM",
+    "subject": "Biology",
+    "activity": "Ch7 Population genetics + Ch6 inheritance",
+    "type": "Coverage",
+    "status": "Not Started"
+  },
+  {
+    "id": 34,
+    "date": "2026-12-01",
+    "time": "2:30-4:00 PM",
+    "subject": "Biology",
+    "activity": "Ch8 Gene expression & gene technology [MOVED EARLIER]",
+    "type": "Coverage",
+    "status": "Not Started"
+  },
+  {
+    "id": 35,
+    "date": "2026-12-01",
+    "time": "4:30-5:30 PM",
+    "subject": "Biology",
+    "activity": "Ch10 Menstrual/ovarian cycles & hormonal regulation",
+    "type": "Coverage",
+    "status": "Not Started"
+  },
+  {
+    "id": 36,
+    "date": "2026-12-01",
+    "time": "9:30-10:30 PM",
+    "subject": "Psychology",
+    "activity": "5.3 Disorders Part 3",
+    "type": "Coverage",
+    "status": "Not Started"
+  },
+  {
+    "id": 37,
+    "date": "2026-12-02",
+    "time": "9:00-10:30 AM",
+    "subject": "Biology",
+    "activity": "Ch10 Fertilisation, embryology & hormones",
+    "type": "Coverage",
+    "status": "Not Started"
+  },
+  {
+    "id": 38,
+    "date": "2026-12-02",
+    "time": "11:00 AM-12:30 PM",
+    "subject": "Chemistry",
+    "activity": "Ch5 Le Chatelier, ICE & dissociation",
+    "type": "Coverage",
+    "status": "Not Started"
+  },
+  {
+    "id": 39,
+    "date": "2026-12-02",
+    "time": "2:30-4:00 PM",
+    "subject": "Mathematics",
+    "activity": "Ch7 Parametric differentiation & applications diagnostic",
+    "type": "Practice/Review",
+    "status": "Not Started"
+  },
+  {
+    "id": 40,
+    "date": "2026-12-02",
+    "time": "4:30-5:30 PM",
+    "subject": "Biology",
+    "activity": "Ch6 Crosses & mapping practice (conditional)",
+    "type": "Practice/Review",
+    "status": "Not Started"
+  },
+  {
+    "id": 41,
+    "date": "2026-12-02",
+    "time": "9:30-10:30 PM",
+    "subject": "Biology",
+    "activity": "Ch6 Non-Mendelian inheritance & mapping",
+    "type": "Coverage",
+    "status": "Not Started"
+  },
+  {
+    "id": 42,
+    "date": "2026-12-03",
+    "time": "9:00-10:30 AM",
+    "subject": "Chemistry",
+    "activity": "Ch5 Additional coverage & calculations [SWAPPED]",
+    "type": "Coverage",
+    "status": "Not Started"
+  },
+  {
+    "id": 43,
+    "date": "2026-12-03",
+    "time": "11:00 AM-12:30 PM",
+    "subject": "Chemistry",
+    "activity": "Ch4 Ionic/covalent bonding, Lewis & VSEPR",
+    "type": "Coverage",
+    "status": "Not Started"
+  },
+  {
+    "id": 44,
+    "date": "2026-12-03",
+    "time": "2:30-4:00 PM",
+    "subject": "Chemistry",
+    "activity": "Ch7 Additional coverage & isomerism [SWAPPED]",
+    "type": "Coverage",
+    "status": "Not Started"
+  },
+  {
+    "id": 45,
+    "date": "2026-12-03",
+    "time": "4:30-5:30 PM",
+    "subject": "Chemistry",
+    "activity": "Ch8 Alkene reactions & mechanisms",
+    "type": "Coverage",
+    "status": "Not Started"
+  },
+  {
+    "id": 46,
+    "date": "2026-12-03",
+    "time": "9:30-10:30 PM",
+    "subject": "Psychology",
+    "activity": "5.4 Part 1 (provisional)",
+    "type": "Coverage",
+    "status": "Not Started"
+  },
+  {
+    "id": 47,
+    "date": "2026-12-04",
+    "time": "9:00-10:30 AM",
+    "subject": "Chemistry",
+    "activity": "Ch4 Polarity, orbital overlap & hybridisation",
+    "type": "Coverage",
+    "status": "Not Started"
+  },
+  {
+    "id": 48,
+    "date": "2026-12-04",
+    "time": "10:45 AM-12:00 PM",
+    "subject": "Chemistry",
+    "activity": "Ch4 Remaining bonding concepts",
+    "type": "Coverage",
+    "status": "Not Started"
+  },
+  {
+    "id": 49,
+    "date": "2026-12-04",
+    "time": "2:30-4:00 PM",
+    "subject": "Biology",
+    "activity": "Ch11 Growth - single 90-minute coverage session",
+    "type": "Coverage",
+    "status": "Not Started"
+  },
+  {
+    "id": 50,
+    "date": "2026-12-04",
+    "time": "4:30-5:30 PM",
+    "subject": "Psychology",
+    "activity": "5.2 Stress, coping & health applications",
+    "type": "Coverage",
+    "status": "Not Started"
+  },
+  {
+    "id": 51,
+    "date": "2026-12-04",
+    "time": "9:30-10:30 PM",
+    "subject": "Psychology",
+    "activity": "5.4 Part 2 (provisional)",
+    "type": "Coverage",
+    "status": "Not Started"
+  },
+  {
+    "id": 52,
+    "date": "2026-12-05",
+    "time": "9:00-11:30 AM",
+    "subject": "Biology",
+    "activity": "Full model paper",
+    "type": "Practice/Review",
+    "status": "Not Started"
+  },
+  {
+    "id": 53,
+    "date": "2026-12-05",
+    "time": "11:45 AM-12:45 PM",
+    "subject": "Biology",
+    "activity": "Marking & error analysis",
+    "type": "Practice/Review",
+    "status": "Not Started"
+  },
+  {
+    "id": 54,
+    "date": "2026-12-05",
+    "time": "2:30-4:00 PM",
+    "subject": "Mathematics",
+    "activity": "Ch7 Timed differentiation & applications",
+    "type": "Coverage",
+    "status": "Not Started"
+  },
+  {
+    "id": 55,
+    "date": "2026-12-05",
+    "time": "4:30-5:00 PM",
+    "subject": "Mathematics",
+    "activity": "Ch5 Mini diagnostic",
+    "type": "Practice/Review",
+    "status": "Not Started"
+  },
+  {
+    "id": 56,
+    "date": "2026-12-05",
+    "time": "5:15-6:00 PM",
+    "subject": "Chemistry",
+    "activity": "Ch8 Remaining reactions practice",
+    "type": "Practice/Review",
+    "status": "Not Started"
+  },
+  {
+    "id": 57,
+    "date": "2026-12-05",
+    "time": "9:30-10:30 PM",
+    "subject": "Biology",
+    "activity": "Ch6/Ch8 Corrections",
+    "type": "Practice/Review",
+    "status": "Not Started"
+  },
+  {
+    "id": 58,
+    "date": "2026-12-06",
+    "time": "9:00-10:30 AM",
+    "subject": "Biology",
+    "activity": "Ch6/Ch8 Structured questions",
+    "type": "Practice/Review",
+    "status": "Not Started"
+  },
+  {
+    "id": 59,
+    "date": "2026-12-06",
+    "time": "11:00 AM-12:30 PM",
+    "subject": "Biology",
+    "activity": "Ch9/Ch10/Ch11 Targeted practice",
+    "type": "Practice/Review",
+    "status": "Not Started"
+  },
+  {
+    "id": 60,
+    "date": "2026-12-06",
+    "time": "2:30-4:00 PM",
+    "subject": "Mathematics",
+    "activity": "Ch8 Mixed integration",
+    "type": "Coverage",
+    "status": "Not Started"
+  },
+  {
+    "id": 61,
+    "date": "2026-12-06",
+    "time": "4:30-5:15 PM",
+    "subject": "Psychology",
+    "activity": "3.3 Recall & questions",
+    "type": "Practice/Review",
+    "status": "Not Started"
+  },
+  {
+    "id": 62,
+    "date": "2026-12-06",
+    "time": "9:30-10:15 PM",
+    "subject": "Biology",
+    "activity": "Final active recall",
+    "type": "Practice/Review",
+    "status": "Not Started"
+  },
+  {
+    "id": 63,
+    "date": "2026-12-07",
+    "time": "EXAM",
+    "subject": "Biology",
+    "activity": "BIOLOGY FINAL",
+    "type": "EXAM",
+    "status": "Event"
+  },
+  {
+    "id": 64,
+    "date": "2026-12-07",
+    "time": "2:30-4:00 PM",
+    "subject": "Mathematics",
+    "activity": "Ch4-6 Timed mixed practice",
+    "type": "Practice/Review",
+    "status": "Not Started"
+  },
+  {
+    "id": 65,
+    "date": "2026-12-07",
+    "time": "9:30-10:30 PM",
+    "subject": "Mathematics",
+    "activity": "Ch7-8 Final revision",
+    "type": "Practice/Review",
+    "status": "Not Started"
+  },
+  {
+    "id": 66,
+    "date": "2026-12-08",
+    "time": "EXAM",
+    "subject": "Mathematics",
+    "activity": "MATHEMATICS FINAL",
+    "type": "EXAM",
+    "status": "Event"
+  },
+  {
+    "id": 67,
+    "date": "2026-12-08",
+    "time": "2:30-4:00 PM",
+    "subject": "Psychology",
+    "activity": "3.2/3.3/4.2/5.2 Revision",
+    "type": "Practice/Review",
+    "status": "Not Started"
+  },
+  {
+    "id": 68,
+    "date": "2026-12-08",
+    "time": "9:30-10:30 PM",
+    "subject": "Psychology",
+    "activity": "5.4 & weak modules",
+    "type": "Coverage",
+    "status": "Not Started"
+  },
+  {
+    "id": 69,
+    "date": "2026-12-09",
+    "time": "9:00-10:30 AM",
+    "subject": "Psychology",
+    "activity": "3.2/3.3/4.2 Applied questions",
+    "type": "Practice/Review",
+    "status": "Not Started"
+  },
+  {
+    "id": 70,
+    "date": "2026-12-09",
+    "time": "11:00 AM-12:30 PM",
+    "subject": "Psychology",
+    "activity": "5.2/5.3/5.4 Applied questions",
+    "type": "Practice/Review",
+    "status": "Not Started"
+  },
+  {
+    "id": 71,
+    "date": "2026-12-09",
+    "time": "2:30-4:00 PM",
+    "subject": "Psychology",
+    "activity": "Error correction",
+    "type": "Practice/Review",
+    "status": "Not Started"
+  },
+  {
+    "id": 72,
+    "date": "2026-12-09",
+    "time": "4:30-5:30 PM",
+    "subject": "Psychology",
+    "activity": "5.2 Scenario practice / unfinished coverage",
+    "type": "Practice/Review",
+    "status": "Not Started"
+  },
+  {
+    "id": 73,
+    "date": "2026-12-09",
+    "time": "9:30-10:15 PM",
+    "subject": "Psychology",
+    "activity": "Final recall",
+    "type": "Practice/Review",
+    "status": "Not Started"
+  },
+  {
+    "id": 74,
+    "date": "2026-12-10",
+    "time": "EXAM",
+    "subject": "Psychology",
+    "activity": "PSYCHOLOGY FINAL",
+    "type": "EXAM",
+    "status": "Event"
+  },
+  {
+    "id": 75,
+    "date": "2026-12-10",
+    "time": "2:30-4:00 PM",
+    "subject": "Chemistry",
+    "activity": "Ch5 Equilibrium calculations",
+    "type": "Coverage",
+    "status": "Not Started"
+  },
+  {
+    "id": 76,
+    "date": "2026-12-10",
+    "time": "4:30-5:30 PM",
+    "subject": "Chemistry",
+    "activity": "Ch5 ICE & dissociation gaps",
+    "type": "Coverage",
+    "status": "Not Started"
+  },
+  {
+    "id": 77,
+    "date": "2026-12-10",
+    "time": "9:30-10:30 PM",
+    "subject": "Chemistry",
+    "activity": "Ch4 Bonding concepts",
+    "type": "Coverage",
+    "status": "Not Started"
+  },
+  {
+    "id": 78,
+    "date": "2026-12-11",
+    "time": "9:00-10:30 AM",
+    "subject": "Chemistry",
+    "activity": "Ch4 Revision / unfinished concepts",
+    "type": "Practice/Review",
+    "status": "Not Started"
+  },
+  {
+    "id": 79,
+    "date": "2026-12-11",
+    "time": "10:45 AM-12:00 PM",
+    "subject": "Chemistry",
+    "activity": "Ch8 Reaction map",
+    "type": "Coverage",
+    "status": "Not Started"
+  },
+  {
+    "id": 80,
+    "date": "2026-12-11",
+    "time": "2:30-4:15 PM",
+    "subject": "Chemistry",
+    "activity": "Ch7/8 Questions + Ch4 catch-up",
+    "type": "Practice/Review",
+    "status": "Not Started"
+  },
+  {
+    "id": 81,
+    "date": "2026-12-11",
+    "time": "4:30-5:15 PM",
+    "subject": "Chemistry",
+    "activity": "Ch5 Calculation practice",
+    "type": "Practice/Review",
+    "status": "Not Started"
+  },
+  {
+    "id": 82,
+    "date": "2026-12-11",
+    "time": "9:30-10:30 PM",
+    "subject": "Chemistry",
+    "activity": "Ch5 Mixed calculations",
+    "type": "Coverage",
+    "status": "Not Started"
+  },
+  {
+    "id": 83,
+    "date": "2026-12-12",
+    "time": "9:00-11:30 AM",
+    "subject": "Chemistry",
+    "activity": "Full model paper",
+    "type": "Practice/Review",
+    "status": "Not Started"
+  },
+  {
+    "id": 84,
+    "date": "2026-12-12",
+    "time": "11:45 AM-12:45 PM",
+    "subject": "Chemistry",
+    "activity": "Marking & error analysis",
+    "type": "Practice/Review",
+    "status": "Not Started"
+  },
+  {
+    "id": 85,
+    "date": "2026-12-12",
+    "time": "2:30-4:00 PM",
+    "subject": "Chemistry",
+    "activity": "Corrections",
+    "type": "Practice/Review",
+    "status": "Not Started"
+  },
+  {
+    "id": 86,
+    "date": "2026-12-12",
+    "time": "4:30-5:15 PM",
+    "subject": "Chemistry",
+    "activity": "Weakest chapter repair",
+    "type": "Practice/Review",
+    "status": "Not Started"
+  },
+  {
+    "id": 87,
+    "date": "2026-12-12",
+    "time": "9:30-10:15 PM",
+    "subject": "Chemistry",
+    "activity": "Final recall",
+    "type": "Practice/Review",
+    "status": "Not Started"
+  },
+  {
+    "id": 88,
+    "date": "2026-12-13",
+    "time": "EXAM",
+    "subject": "Chemistry",
+    "activity": "CHEMISTRY FINAL",
+    "type": "EXAM",
+    "status": "Event"
+  },
+  {
+    "id": 89,
+    "date": "2026-12-13",
+    "time": "2:30-4:00 PM",
+    "subject": "English",
+    "activity": "Email timed practice",
+    "type": "Practice/Review",
+    "status": "Not Started"
+  },
+  {
+    "id": 90,
+    "date": "2026-12-13",
+    "time": "9:30-10:30 PM",
+    "subject": "English",
+    "activity": "Writing timed practice",
+    "type": "Practice/Review",
+    "status": "Not Started"
+  },
+  {
+    "id": 91,
+    "date": "2026-12-14",
+    "time": "7:45-8:15 AM",
+    "subject": "English",
+    "activity": "Light review",
+    "type": "Coverage",
+    "status": "Not Started"
+  },
+  {
+    "id": 92,
+    "date": "2026-12-14",
+    "time": "EXAM",
+    "subject": "English",
+    "activity": "ENGLISH FINAL",
+    "type": "EXAM",
+    "status": "Event"
+  }
+]
